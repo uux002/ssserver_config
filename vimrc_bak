@@ -1,0 +1,18 @@
+set nocompatible
+syntax enable
+filetype plugin on
+filetype indent on
+set shortmess=atI
+set autoindent
+set nu
+set showcmd
+set ignorecase
+set ai
+set si
+set showmatch
+
+set expandtab
+set smarttab
+set shiftwidth=4
+set tabstop=4
+
