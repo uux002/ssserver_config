@@ -1,18 +1,18 @@
 if [ -z "$1" ]
 then
-	echo "请输入端口号"
+	echo "openssh port password *.pid"
 	exit
 fi
 
 if [ -z "$2" ]
 then
-	echo "请输入密码"
+	echo "openssh port password *.pid"
 	exit
 fi
 
 if [ -z "$3" ]
 then
-	echo "请输入pid文件名"
+	echo "openssh port password *.pid"
 	exit
 fi
 
